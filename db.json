@@ -1,0 +1,539 @@
+{
+  "home": {
+    "img": "assets/imgs/1.jpg",
+    "designerName": "Badr Jibali",
+    "designerTitle": "Web Designer",
+    "designerDescription": "I'm a  Egyptian based web designer & front‑end developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent light software that improves the lives of those around me"
+  },
+  "about": {
+    "personalInfo": {
+      "firstName": "badr",
+      "lastName": "jibali",
+      "age": "28",
+      "nationality": "egyptian",
+      "freelance": "available",
+      "country": "egypt",
+      "governorate": "beni suef",
+      "phone": "+201156260918",
+      "whatsapp": "+201156260918",
+      "email": "badr.jibali@outlook.com",
+      "facebook": "facebook.com/B.M.JIBALI",
+      "languages": ["arabic", "english"]
+    },
+    "reviews": {
+      "years": "1",
+      "projects": "15",
+      "happyCustomers": "13",
+      "awards": "4"
+    },
+    "skills": [
+      {
+        "id": 1,
+        "lang": "html",
+        "percent": 95
+      },
+      {
+        "id": 1,
+        "lang": "css",
+        "percent": 93
+      },
+      {
+        "id": 1,
+        "lang": "sass",
+        "percent": 80
+      },
+      {
+        "id": 1,
+        "lang": "bootstrap",
+        "percent": 98
+      },
+      {
+        "id": 1,
+        "lang": "tailwind",
+        "percent": 91
+      },
+      {
+        "id": 1,
+        "lang": "javascript",
+        "percent": 85
+      },
+      {
+        "id": 1,
+        "lang": "vue",
+        "percent": 87
+      },
+      {
+        "id": 1,
+        "lang": "vuex",
+        "percent": 80
+      }
+    ],
+    "experience": [
+      {
+        "id": 1,
+        "date": {
+          "from": 2022,
+          "to": "present"
+        },
+        "job": "web developer",
+        "place": "envato",
+        "description": "Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit"
+      },
+      {
+        "id": 2,
+        "date": {
+          "from": 2021,
+          "to": 2022
+        },
+        "job": "UI/UX designer",
+        "place": "themforest",
+        "description": "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt"
+      },
+      {
+        "id": 3,
+        "date": {
+          "from": 2020,
+          "to": 2021
+        },
+        "job": "consultant",
+        "place": "videohive",
+        "description": "Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt"
+      },
+      {
+        "id": 4,
+        "date": {
+          "from": 2019,
+          "to": 2020
+        },
+        "job": "science degree",
+        "place": "beni suef university",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore"
+      },
+      {
+        "id": 5,
+        "date": {
+          "from": 2018,
+          "to": 2019
+        },
+        "job": "master degree",
+        "place": "kiev university",
+        "description": "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut adipisicin"
+      },
+      {
+        "id": 6,
+        "date": {
+          "from": 2014,
+          "to": 2018
+        },
+        "job": "bachelor degree",
+        "place": "beni suef university",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore"
+      }
+    ]
+  },
+  "portfolio": {
+    "images": [
+      {
+        "id": 1,
+        "name": "badr jibali",
+        "img": [
+          "assets/imgs/my_portfolio/portfolio-1.jpg",
+          "assets/imgs/my_portfolio/portfolio-2.jpg",
+          "assets/imgs/my_portfolio/portfolio-3.jpg"
+        ],
+        "project": "website",
+        "languages": ["html", "css", "javascript"],
+        "client": "evanto",
+        "preview": "www.envato.com"
+      },
+      {
+        "id": 2,
+        "name": "sayed hamdi",
+        "img": [
+          "assets/imgs/my_portfolio/portfolio-4.jpg",
+          "assets/imgs/my_portfolio/portfolio-5.jpg",
+          "assets/imgs/my_portfolio/portfolio-6.jpg"
+        ],
+        "project": "video",
+        "languages": ["adobe after effects"],
+        "client": "videohive",
+        "preview": "www.videohive.net"
+      },
+      {
+        "id": 3,
+        "name": "abd-allah ahmed",
+        "img": [
+          "assets/imgs/my_portfolio/portfolio-7.jpg",
+          "assets/imgs/my_portfolio/portfolio-8.jpg",
+          "assets/imgs/my_portfolio/portfolio-9.jpg"
+        ],
+        "project": "website",
+        "languages": ["html", "css", "javascript"],
+        "client": "themeforest",
+        "preview": " www.themeforest.net"
+      },
+      {
+        "id": 4,
+        "name": "hamada salah",
+        "img": [
+          "assets/imgs/my_portfolio/portfolio-1.jpg",
+          "assets/imgs/my_portfolio/portfolio-3.jpg",
+          "assets/imgs/my_portfolio/portfolio-5.jpg"
+        ],
+        "project": "website",
+        "languages": ["Adobe Premium"],
+        "client": "badr",
+        "preview": "www.envato.com"
+      },
+      {
+        "id": 5,
+        "name": "slider project",
+        "img": [
+          "assets/imgs/my_portfolio/portfolio-7.jpg",
+          "assets/imgs/my_portfolio/portfolio-9.jpg",
+          "assets/imgs/my_portfolio/portfolio-2.jpg"
+        ],
+        "project": "website",
+        "languages": ["html", "css", "javascript"],
+        "client": "evanto",
+        "preview": "www.envato.com"
+      },
+      {
+        "id": 6,
+        "name": "mahmoud elaraby",
+        "img": [
+          "assets/imgs/my_portfolio/portfolio-4.jpg",
+          "assets/imgs/my_portfolio/portfolio-6.jpg",
+          "assets/imgs/my_portfolio/portfolio-8.jpg"
+        ],
+        "project": "website",
+        "languages": ["html", "css", "javascript"],
+        "client": "evanto",
+        "preview": "www.envato.com"
+      },
+      {
+        "id": 7,
+        "name": "youtube project",
+        "img": [
+          "assets/imgs/my_portfolio/portfolio-9.jpg",
+          "assets/imgs/my_portfolio/portfolio-4.jpg",
+          "assets/imgs/my_portfolio/portfolio-7.jpg"
+        ],
+        "project": "website",
+        "languages": ["html", "css", "javascript"],
+        "client": "evanto",
+        "preview": "www.envato.com"
+      },
+      {
+        "id": 8,
+        "name": "image project",
+        "img": [
+          "assets/imgs/my_portfolio/portfolio-2.jpg",
+          "assets/imgs/my_portfolio/portfolio-7.jpg",
+          "assets/imgs/my_portfolio/portfolio-9.jpg"
+        ],
+        "project": "website",
+        "languages": ["html", "css", "javascript"],
+        "client": "evanto",
+        "preview": "www.envato.com"
+      },
+      {
+        "id": 9,
+        "name": "video project",
+        "img": [
+          "assets/imgs/my_portfolio/portfolio-6.jpg",
+          "assets/imgs/my_portfolio/portfolio-4.jpg",
+          "assets/imgs/my_portfolio/portfolio-3.jpg"
+        ],
+        "project": "website",
+        "languages": ["html", "css", "javascript"],
+        "client": "evanto",
+        "preview": "www.envato.com"
+      }
+    ]
+  },
+  "contact": {
+    "header": "don't be shy !",
+    "paragraph": "Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions",
+    "contactInfo": {
+      "mail": "badr.jibali@outlook.com",
+      "phone": 201156060918,
+      "facebook": "facebook.com/B.M.JIBALI",
+      "whatsapp": 201156060918,
+      "telegram": 201156060918,
+      "gmail": "badr.jibali@gmail.com"
+    }
+  },
+  "message": {
+    "name": "badr jibali",
+    "email": "badr.jibali@outlook.com",
+    "subject": "How to Approach SVG Animations in CSS",
+    "message": "Now, for the console app (front end) version of the application, we’ll need to make a couple more changes. I’ve provided these to the front end.js file, but if I was building it from scratch."
+  },
+  "blogs": [
+    {
+      "id": 1,
+      "blogger": "badr",
+      "date": "22 jul 2022",
+      "tags": ["wordpress", "business", "design"],
+      "title": "how to build your email list",
+      "img": "assets/imgs/my_blog/blog (1).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "mail marketing helps you not only to build a relationship with your customers, but gives you a proven way to nurture leads and convert them into long lasting customers,No matter what type of business you operate, an email list is the most important element of a successful marketing strategy. With that list, you can share your story, promote your business, and showcase your products, all while turning subscribers into paying customers,You’ve collected a lot of information about your existing customers, now you have the opportunity to put that data to work for your business. Facebook analyzes the profiles of the contacts on your Mailchimp list, then creates a lookalike audience based on shared interests, behaviors, and demographic"
+        },
+        {
+          "id": 2,
+          "paragraph": "Online businesses that want to attract potential customers can use opt-in forms in their website to attract sign ups, experienced content marketers use lead magnets to generate leads. You can also combine pop‑up forms and Facebook ads to start growing your email list in a few simple steps, In this recipe, you’ll learn how to quickly build a list from scratch by combining 2 of Mailchimp’s most powerful tools: pop-up forms and Facebook ads, But Facebook ads aren’t just used for selling stuff, but also to generate leads by collecting emails through ads that link to your landing pages with opt-in forms. In just a few steps, you can create an ad that drives people to your site so they can quickly and easily sign up for your email list"
+        },
+        {
+          "id": 3,
+          "paragraph": "Pop-up forms provide visitors with a quick, convenient way to share contact information and subscribe to your list while they’re browsing your site, making them a powerful tool for audience growth. They’re easy to add to your site, and they’re proven to work—our research shows that Mailchimp users have seen their list growth rate increase by an average of 50.8% after adding a pop-up form to their site, Every marketing expert knows that Facebook ads help you reach new audiences—and find new customers—by targeting people who’re similar to your existing contacts. In fact, we’ve found that targeting an audience that’s similar to your Mailchimp list can lead to a 29% better ROI than interest targeting alone"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "blogger": "sayed",
+      "date": "30 jul 2022",
+      "tags": ["deep learning", "python", "AI"],
+      "title": "Machine Learning Engineer Turns Ideas Into Products",
+      "img": "assets/imgs/my_blog/blog (2).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "machine learning and data science as a business analyst shortly after graduating from college. He later took the Deep Learning Specialization, and soon after landed work as an engineer. After working several years for a variety of consulting companies, he recently took a job as a software engineer. He spoke to us about why he believes traditional computing skills are important to deploying enterprise machine learning applications, Yes, I am now a software developer for an internet service provider based in Sweden called VX Fiber. At the moment there is no machine learning at this company, but I’m sure there will be in the future because, as an internet service provider, we have loads of data. I’m still learning a lot, but I’m pretty sure there are opportunities for automation"
+        },
+        {
+          "id": 2,
+          "paragraph": "My new role has no machine learning in it because I want to get experience developing enterprise applications from the back end. For the work I want to do, which is machine learning, I think the biggest foundation is software engineering. I’ve seen a lot of data science experiments that remain in Jupyter Notebooks. Without software engineering, you wind up with pet projects that don’t ever make it to the market, The first time I heard about machine learning was 2017. I was just getting into data analysis and saw that what you could do with machine learning was revolutionary. And it seemed complicated, but it also seemed like something I could do, I read your newsletter, The Batch, because it has all of the most relevant stuff in a condensed format. It makes it really easy to skim and keep up with the general trends in AI. For deeper dives, I follow several YouTube creators"
+        },
+        {
+          "id": 3,
+          "paragraph": "My first data science job was at a French consulting company called Alten, starting in late 2019 after completing the Deep Learning Specialization. The recruiting process wasn’t that hard. I think the director was impressed by my passion for machine learning. He saw that I wasn’t skilled in software engineering but was able to talk in depth about topics like natural language processing, computer vision, and time-series forecasting, Yes, definitely. Advanced mathematics like calculus are the foundation of any engineering degree, and those also form the foundation of data science and machine learning, One tip is to build a portfolio of projects in a wide range of topics. When doing projects, you are going to learn more if you can find problems that you really want to solve. Then you want to post about your work. The simplest way is to post your work on Github, but even better would be to write a blog about your experience"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "blogger": "badr",
+      "date": "09 Aug 2022",
+      "tags": ["HTML", "css", "Javascript"],
+      "title": "acing Google's PageSpeed Insights Assessment",
+      "img": "assets/imgs/my_blog/blog (3).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "If you’re a business owner, you’re interested in getting better search rankings for your website. If you’re a developer, you’ll need to cater to the client’s needs and create a site capable of ranking well. Google considers hundreds of characteristics when it determines the order of websites in its Search Engine Ranking Page (SERP), Page speed was officially cited as an important ranking attribute in mid-2018. In this article, we will explain performance scores that business owners should pay attention to: PageSpeed Insights. We will be going deeper into some technical details that will help software developers make improvements in complicated cases, like those related to single-page applications"
+        },
+        {
+          "id": 2,
+          "paragraph": "When Google introduced PageSpeed Tools in 2010, most website owners became acquainted with it. Those who haven’t should open PageSpeed Insights to check their sites, The service provides details on how a website performs both on desktop and mobile browsers. It’s easy to miss the fact that you can switch between them using the Mobile and Desktop tabs at the top of the analysis, For the values to be green, the page needs to score at least 75% in the test, and many users need to experience equal or better values. The threshold differs for each score and it’s significantly higher for FID"
+        },
+        {
+          "id": 3,
+          "paragraph": "Because mobile devices are compact and aim to preserve battery life, their web browsers tend to exhibit lower performance than devices running desktop operating systems, so expect the desktop score to be higher, Big tech companies won’t score in the red in any area, but smaller sites running on tighter budgets may. Business owners can also run PageSpeed Insights on their competitors’ sites and compare the results with their own to see if they need to invest in improving performance"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "blogger": "Abd-Allah",
+      "date": "01 jun 2022",
+      "tags": ["PHP", "API", "Protocol"],
+      "title": "gRPC vs. REST: Getting Started With the Best API Protoco",
+      "img": "assets/imgs/my_blog/blog (4).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "In today’s technology landscape, most projects require the use of APIs. APIs bridge communication between services that may represent a single, complex system but may also reside on separate machines or use multiple, incompatible networks or languages, Many standard technologies address the interservice communication needs of distributed systems, such as REST, SOAP, GraphQL, or gRPC. While REST is a favored approach, gRPC is a worthy contender, offering high performance, typed contracts, and excellent tooling"
+        },
+        {
+          "id": 2,
+          "paragraph": "Representational state transfer (REST) is a means of retrieving or manipulating a service’s data. A REST API is generally built on the HTTP protocol, using a URI to select a resource and an HTTP verb (e.g., GET, PUT, POST) to select the desired operation. Request and response bodies contain data that is specific to the operation, while their headers provide metadata. To illustrate, let’s look at a simplified example of retrieving a product via a REST API,  we request a product resource with an ID of 11 and direct the API to respond in JSON format"
+        },
+        {
+          "id": 3,
+          "paragraph": "gRPC Remote Procedure Call (gRPC) is an open-source, contract-based, cross-platform communication protocol that simplifies and manages interservice communication by exposing a set of functions to external clients, The remote functions that are available on a service (defined in a .proto file) are listed inside the service node in the protocol buffer file. As developers, we get to define these functions and their parameters using protocol buffers’ rich type system. This system supports various numeric and date types, lists, dictionaries, and nullables to define our input and output messages"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "blogger": "hamada",
+      "date": "15 Feb 2022",
+      "tags": ["wordpress", "business", "design"],
+      "title": "Streamline Your Django Settings With Type Hints: A Pydantic Tutorial",
+      "img": "assets/imgs/my_blog/blog (5).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "Django projects used to frustrate me because I lacked a robust and scalable way to add new environments. By bringing together pydantic and Python type hints, I built the powerful foundation I needed, described in PEP 484, type hints support static analysis, but these same annotations are also available at runtime. Third-party packages like pydantic offer runtime type checking that uses this additional metadata. Pydantic uses Python type hints to help manage settings metadata and perform runtime data validation"
+        },
+        {
+          "id": 2,
+          "paragraph": "Alternatively, some developers create multiple settings files, like settings_dev.py and settings_prod.py. Unfortunately, this approach does not scale well. It leads to code duplication, confusion, hard-to-find bugs, and higher maintenance efforts, the aforementioned best practices, adding any number of environments is easy, well-defined, and error-proof. Although we could explore a more complicated environment configuration, we will focus on two for clarity: development and production"
+        },
+        {
+          "id": 3,
+          "paragraph": "Our example application requires a Django-supported database, so we need to store the database connection string. We move the database connection configuration information into an environment variable, DATABASE_URL, using the Python package dj-database-url. Please note that this variable is of type str and is formatted, variable we want to define is a boolean, DEBUG. The DEBUG flag in Django must never be turned on in a production deployment. It is intended to get additional feedback during development. For example, in debug mode, Django will display detailed error pages when an exception occurs"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "blogger": "mahmoud",
+      "date": "22 jul 2022",
+      "tags": ["kotlin", "css", "button"],
+      "title": "Compose for Wear OS is now 1.0: time to build wearable apps with Compose!",
+      "img": "assets/imgs/my_blog/blog (6).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "Today we’re launching version 1.0 of Compose for Wear OS, the first stable release of our modern declarative UI toolkit designed to help developers create beautiful, responsive apps for Google’s smartwatch platform, compose for Wear OS was built from the bottom up in Kotlin with assumptions of modern app architecture. It makes building apps for Wear OS easier, faster, and more intuitive by following the declarative approach and offering powerful Kotlin syntax"
+        },
+        {
+          "id": 2,
+          "paragraph": "The toolkit not only simplifies UI development, but also provides a rich set of UI components optimized for the watch experience with built-in support of Material design for Wear OS, and it’s accompanied by many powerful tools in Android Studio to streamline UI iteration, We are also excited to share how developers have already adopted Compose in their Wear OS apps and what they like about it"
+        },
+        {
+          "id": 3,
+          "paragraph": "The Compose for Wear OS 1.0 release means that the API is stable and has what you need to build production-ready apps. Moving forward, Compose for Wear OS is our recommended approach for building user interfaces for Wear OS apps, Your feedback has helped shape the development of Compose for Wear OS; our developer community has been with us each step of the way, engaging with us on Slack and providing feedback on the APIs, components, and tooling. As we are working on bringing new features to future versions of Compose for Wear OS, we will continue to welcome developer feedback and suggestions"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "blogger": "osama",
+      "date": "10 Apr 2022",
+      "tags": ["websites", "security", "hack"],
+      "title": "Managing data protection and third-party risk with AI",
+      "img": "assets/imgs/my_blog/blog (7).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "Voice assistants, predictive text, autonomous cars and other advancements in artificial intelligence (AI) are either already woven into people’s ordinary lives or fast approaching their horizons. Artificial intelligence is spreading its influence across society. Companies that are reluctant to implement AI and machine learning risk falling behind competitors that have adopted these tools and are using them to meet modern user expectations, start by working with providers that perform at strict compliance levels. That means more than just meeting the basic level of Europe’s General Data Protection Regulation (GDPR), the California Privacy Rights Act"
+        },
+        {
+          "id": 2,
+          "paragraph": "Yet, whether an organization is already leveraging AI and machine learning (ML) platforms or considering adopting them, it’s crucial they are attuned to security issues attached to this technology. Companies and their vendors must see eye-to-eye on AI and ML’s use and protect themselves against cyber breaches that can derail operations, That’s a security combination that should raise the alarm. Organizations must work with external partners to keep data breaches in check and confidently operate in a secure environment"
+        },
+        {
+          "id": 3,
+          "paragraph": "Gartner predicts AI — a $60 billion industry in its own right — will grow 20% this year, tying that shift to organizations’ improving digital maturity to meet business needs. Unfortunately, at the same time, PricewaterhouseCoopers reports fewer than half of companies have a grasp of their third-party cyber and privacy risks, Businesses and their partners should seek a shared level of trust that suits each of them. Trust starts with sharing authentic, documented security standards and grows with a consistently robust security performance over time"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "blogger": "badr",
+      "date": "28 May 2022",
+      "tags": ["protection", "business", "AI"],
+      "title": "Managing data protection and third-party risk with AI",
+      "img": "assets/imgs/my_blog/blog (8).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "Responsible technology providers are able to specify the regulations and frameworks their software complies with, as well as list the steps they take to achieve and maintain third-party verification, Likewise, organizations should communicate openly with partners about additional data security levels that could arise. Companies typically seek data security associated with the payment card industry, the Health Insurance Portability and Accountability Act (HIPAA) and system and organization controls audits"
+        },
+        {
+          "id": 2,
+          "paragraph": "Customer support can be conversations over email, live chat, AI-enabled voice translations, and other online channels. When time is limited — as is often the case with users — quick solutions might involve users sharing personally identifiable information (PII) such as full name, credit card numbers, or personal contact information, Exemplary customer service relies heavily on data. Its management is crucial to security"
+        },
+        {
+          "id": 3,
+          "paragraph": "Like all successful companies, third-party vendors don’t rely on hope or luck to pull them through a rough patch. A sound business relationship between a company and its AI and ML partners will include cyberattack assessments, scenarios and responses, and recovery planning to develop the best gauge of risks, There should be penetration testing in place to actively seek vulnerable areas of the software or attempt to infiltrate business operations through the platforms. This helps maintain a robust security posture and defend against evolving threats. It’s a direct counter to efforts that"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "blogger": "araby",
+      "date": "29 Sep 2022",
+      "tags": ["wordpress", "business", "design"],
+      "title": "secure coding education must foreground ongoing training",
+      "img": "assets/imgs/my_blog/blog (9).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "Most network connections begin with a DNS lookup. While transport security may be applied to the connection itself, that DNS lookup has traditionally not been private by default: the base DNS protocol is raw UDP with no encryption. While the internet has migrated to TLS over time, DNS has a bootstrapping problem. Certificate verification relies on the domain of the other party, which requires either DNS itself, or moves the problem to DHCP (which may be maliciously controlled). This issue is mitigated by central resolvers like Google, Cloudflare, OpenDNS and Quad9, which allow devices to configure a single DNS resolver locally for every network, overriding what is offered through DHCP"
+        },
+        {
+          "id": 2,
+          "paragraph": "In Android 9.0, we announced the Private DNS feature, which uses DNS-over-TLS (DoT) to protect DNS queries when enabled and supported by the server. Unfortunately, DoT incurs overhead for every DNS request. An alternative encrypted DNS protocol, DNS-over-HTTPS (DoH), is rapidly gaining traction within the industry as DoH has already been deployed by most public DNS operators, including the Cloudflare Resolver and Google Public DNS. While using HTTPS alone will not reduce the overhead significantly, HTTP/3 uses QUIC, a transport that efficiently multiplexes multiple streams over UDP using a single TLS session with session resumption. All of these features are crucial to efficient operation on mobile devices"
+        },
+        {
+          "id": 3,
+          "paragraph": "DNS-over-HTTP/3 (DoH3) support was released as part of a Google Play system update, so by the time you’re reading this, Android devices from Android 11 onwards1 will use DoH3 instead of DoT for well-known2 DNS servers which support it. Which DNS service you are using is unaffected by this change; only the transport will be upgraded. In the future, we aim to support DDR which will allow us to dynamically select the correct configuration for any server. This feature should decrease the performance impact of encrypted DNS"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "blogger": "ahmed",
+      "date": "22 jul 2022",
+      "tags": ["update", "hacking", "secure"],
+      "title": "an update on our war against account hijackers",
+      "img": "assets/imgs/my_blog/blog (10).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "To improve their chances of beating a spam filter by sending you spam from your contact’s account, the spammer first has to break into that account. This means many spammers are turning into account thieves. Every day, cyber criminals break into websites to steal databases of usernames and passwords—the online “keys” to accounts. They put the databases up for sale on the black market, or use them for their own nefarious purposes. Because many people re-use the same password across different accounts, stolen passwords from one site are often valid on others"
+        },
+        {
+          "id": 2,
+          "paragraph": "With stolen passwords in hand, attackers attempt to break into accounts across the web and across many different services. We’ve seen a single attacker using stolen passwords to attempt to break into a million different Google accounts every single day, for weeks at a time. A different gang attempted sign-ins at a rate of more than 100 accounts per second. Other services are often more vulnerable to this type of attack, but when someone tries to log into your Google Account, our security system does more than just check that a password is correct"
+        },
+        {
+          "id": 3,
+          "paragraph": "If a sign-in is deemed suspicious or risky for some reason—maybe it’s coming from a country oceans away from your last sign-in—we ask some simple questions about your account. For example, we may ask for the phone number associated with your account, or for the answer to your security question. These questions are normally hard for a hijacker to solve, but are easy for the real owner. Using security measures like these, we've dramatically reduced the number of compromised accounts by 99.7 percent since the peak of these hijacking attempts in 2011"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "blogger": "mohammed",
+      "date": "31 Oct 2022",
+      "tags": ["information", "Private", "design"],
+      "title": "Protecting your device information with Private Set Membership",
+      "img": "assets/imgs/my_blog/blog (11).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "At Google, keeping you safe online is our top priority, so we continuously build the most advanced privacy-preserving technologies into our products. Over the past few years, we've utilized innovations in cryptographic research to keep your personal information private by design and secure by default. As part of this, we launched Password Checkup, which protects account credentials by notifying you if an entered username and password are known to have been compromised in a prior data breach. Using cryptographic techniques, Password Checkup can do this without revealing your credentials to anyone, including Google. Today, Password Checkup protects users across many platforms including Android, Chrome and Google Password Manager"
+        },
+        {
+          "id": 2,
+          "paragraph": "well as its open-source availability. At a high level, Private Set Membership considers the scenario in which Google holds a database of items, and user devices need to contact Google to check whether a specific item is found in the database. As an example, users may want to check membership of a computer program on a block list consisting of known malicious software before executing the program. Often, the set’s contents and the queried items are sensitive, so we designed Private Set Membership to perform this task while preserving the privacy of our users"
+        },
+        {
+          "id": 3,
+          "paragraph": "During the enrollment process, we protect your Chrome OS devices by ensuring no information ever leaves the device that may be decrypted by anyone else when using Private Set Membership. Google will never learn any device information and devices will not learn any unnecessary information about other devices. ​​To our knowledge, this is the first instance of advanced cryptographic tools being leveraged to protect device information during the enrollment process"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "blogger": "jibali",
+      "date": "18 Nov 2022",
+      "tags": ["HTTP", "DNS", "Android"],
+      "title": "DNS-over-HTTP/3 in Android",
+      "img": "assets/imgs/my_blog/blog (12).jpg",
+      "paragraphs": [
+        {
+          "id": 1,
+          "paragraph": "Most network connections begin with a DNS lookup. While transport security may be applied to the connection itself, that DNS lookup has traditionally not been private by default: the base DNS protocol is raw UDP with no encryption. While the internet has migrated to TLS over time, DNS has a bootstrapping problem. Certificate verification relies on the domain of the other party, which requires either DNS itself, or moves the problem to DHCP (which may be maliciously controlled). This issue is mitigated by central resolvers like Google, Cloudflare, OpenDNS and Quad9, which allow devices to configure a single DNS resolver locally for every network, overriding what is offered through DHCP"
+        },
+        {
+          "id": 2,
+          "paragraph": "In Android 9.0, we announced the Private DNS feature, which uses DNS-over-TLS (DoT) to protect DNS queries when enabled and supported by the server. Unfortunately, DoT incurs overhead for every DNS request. An alternative encrypted DNS protocol, DNS-over-HTTPS (DoH), is rapidly gaining traction within the industry as DoH has already been deployed by most public DNS operators, including the Cloudflare Resolver and Google Public DNS. While using HTTPS alone will not reduce the overhead significantly, HTTP/3 uses QUIC, a transport that efficiently multiplexes multiple streams over UDP using a single TLS session with session resumption. All of these features are crucial to efficient operation on mobile devices"
+        },
+        {
+          "id": 3,
+          "paragraph": "DNS-over-HTTP/3 (DoH3) support was released as part of a Google Play system update, so by the time you’re reading this, Android devices from Android 11 onwards1 will use DoH3 instead of DoT for well-known2 DNS servers which support it. Which DNS service you are using is unaffected by this change; only the transport will be upgraded. In the future, we aim to support DDR which will allow us to dynamically select the correct configuration for any server. This feature should decrease the performance impact of encrypted DNS"
+        }
+      ]
+    }
+  ]
+}
