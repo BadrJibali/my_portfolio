@@ -1,6 +1,6 @@
 <template>
   <button @click="redirectButton" class="btn main rounded-pill overflow-hidden d-flex position-relative justify-content-evenly align-items-center">
-    <div class="m-0 p-0 z-index w-auto">
+    <div class="m-0 p-0 z-index-btn w-auto">
       <a class="text-color a m-auto fs-7 text-uppercase" ><slot></slot></a>
     </div>
     <div class="m-0 p-0 rounded-circle">
@@ -40,6 +40,9 @@
   border: 0.05rem solid var(--alt-main-color);
   cursor: pointer;
   
+  .z-index-btn {
+    z-index: 1000;
+  }
 
   &::before {
     content: "";

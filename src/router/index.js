@@ -7,7 +7,7 @@ import Contact from '../views/Contact.vue'
 import Blogs from '../views/Blogs.vue'
 import SingleBlog from '../views/SingleBlog.vue'
 import NotFound from '../views/NotFound.vue'
-import NProgress from 'nprogress'
+// import NProgress from 'nprogress'
 
 Vue.use(VueRouter)
 

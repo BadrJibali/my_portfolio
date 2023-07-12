@@ -3,7 +3,7 @@
     <div class="clip overflow-hidden bg-color"></div>
     <div class="container-fluid pt-5 pt-md-0 pt-lg-0">
       <div class="row pt-sm-5 pt-5 pt-md-0 pt-lg-0 vh-100  justify-content-center align-items-center">
-        <div class="col-12 col-md-6 col-lg-5 img ">
+        <div class="col-12 col-md-6 col-lg-4 img ">
           <ul class="d-flex justify-content-center align-items-center">
             <li class="w-75 shadow-lg">
               <img class="img-fluid rounded-4" :src="require(`@/${home.img}`)" alt="Badr">
